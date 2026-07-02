@@ -1,0 +1,24 @@
+# Dependency directories
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Build and production
+dist/
+build/
+.next/
+out/
+
+# Environment files
+.env
+.env*.local
+
+# IDEs and OS files
+.DS_Store
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
